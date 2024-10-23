@@ -1,3 +1,4 @@
 # Leetcode
 This is all the leetcode solutions 
-hello worldfffff
+hello world
+Yo Cos lets hop on that fort rn
